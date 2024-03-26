@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "6602d414224f7c85eaccb61d",
+    "name": "Quinn Workman",
+    "age": 23,
+    "email": "quinnworkman@imaginart.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-3.jpg",
+    "password": "",
+    "createdAt": "2019-01-14T07:32:14"
+  },
+  {
+    "_id": "6602d4145c9b5091a1a30f46",
+    "name": "Soto Knapp",
+    "age": 21,
+    "email": "sotoknapp@imaginart.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2018-01-16T09:31:13"
+  },
+  {
+    "_id": "6602d41487b0a916da7f31ec",
+    "name": "Carissa Valentine",
+    "age": 25,
+    "email": "carissavalentine@imaginart.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2022-08-04T04:39:35"
+  },
+  {
+    "_id": "6602d414246f02852ae8fe29",
+    "name": "Therese Hurst",
+    "age": 28,
+    "email": "theresehurst@imaginart.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": "",
+    "createdAt": "2015-04-11T01:51:17"
+  },
+  {
+    "_id": "6602d414b48097b624f93833",
+    "name": "Nina Clayton",
+    "age": 39,
+    "email": "ninaclayton@imaginart.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-1.jpg",
+    "password": "",
+    "createdAt": "2015-11-16T06:15:49"
+  },
+  {
+    "_id": "6602d4144c19ba5fb72aab2d",
+    "name": "Luz Simon",
+    "age": 21,
+    "email": "luzsimon@imaginart.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": "",
+    "createdAt": "2017-05-15T01:29:25"
+  },
+  {
+    "_id": "6602d414f739aa35c4c0fc42",
+    "name": "Mariana Hodges",
+    "age": 31,
+    "email": "marianahodges@imaginart.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-3.jpg",
+    "password": "",
+    "createdAt": "2015-06-23T08:35:15"
+  }
+]
